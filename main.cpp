@@ -15,8 +15,6 @@ int centerY = logHeight/2;
 int alphaX, alphaY = 0;
 int sqWid = 20;
 int right=0; int left=0; int up=0; int down =0;
-int score = 0;
-char* s;
 
 
 
